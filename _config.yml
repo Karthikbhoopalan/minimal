@@ -1,6 +1,14 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: <p align="center">Karthik Bhoopalan</p>
+logo: /assets/img/Photo.jpg
+description: <p align="center">
+             <a href="/assets/img/karthik_bhoopalan.docx">Resume</a>
+             <a href="https://www.linkedin.com/in/karthik-bhoopalan-218140120">LinkedIn</a>
+
+             <br/>
+             I'm Working as a Full Stack .net Developer.
+             Exploring by learning ML & AI
+             Working at Winjit Technologies
+             <br/>
+             </p>
 google_analytics:
 theme: jekyll-theme-minimal
